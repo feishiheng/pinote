@@ -1,2 +1,2 @@
 # pinote
-A pinnable note app stack on tauri and vue.
+A pinnable note app powered by Tauri and Vue.
